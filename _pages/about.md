@@ -18,8 +18,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I received my bachelor's degree and master's degree in computer science
+in 2005 and 2010 respectively from the University of Catania. I received
+my PhD in Mathematics and Computer Science in 2019 from the University
+of Catania. I am member of the IPLAB (University of Catania) research
+group since 2015. I'm author of papers in international book chapters,
+international journals and international conference proceedings. My
+research interests concern Computer Vision, Pattern Recognition, and
+Machine Learning, with focus on Scene Understanding and Domain
+Adaptation. From October 2019 until October 2020 I was a researcher
+at Department of Mathematics and Informatics, University of Catania.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I am investigating 3D reconstruction and Autonomous Robots in indoor envirnoments.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently Senior Research Engineer at [Next Vision s.r.l.](https://www.nextvisionlab.it/).
