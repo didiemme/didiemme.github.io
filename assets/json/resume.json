@@ -84,27 +84,110 @@
   "certificates": [],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "type": "inproceedings",
+      "key": "DBLP:conf/visapp/QuattrocchiMFLM23",
+      "author": "Camillo Quattrocchi, Daniele Di Mauro, Antonino Furnari, Antonino Lopes, Marco Moltisanti, Giovanni Maria Farinella",
+      "editor": "Petia Radeva, Giovanni Maria Farinella, Kadi Bouatouch",
+      "title": "Put Your PPE on: A Tool for Synthetic Data Generation and Related Benchmark in Construction Site Scenarios",
+      "journal": "Proceedings of the 18th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, VISIGRAPP 2023, Volume 4: VISAPP, Lisbon, Portugal, February 19-21, 2023",
+      "pages": "656--663",
+      "publisher": "SCITEPRESS",
+      "year": 2023,
+      "url": "https://doi.org/10.5220/0011718000003417",
+      "timestamp": "Thu, 23 Mar 2023 13:11:21 +0100",
+      "preview": {}
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "type": "article",
+      "key": "DBLP:journals/corr/abs-2312-02638",
+      "author": "Camillo Quattrocchi, Antonino Furnari, Daniele Di Mauro, Mario Valerio Giuffrida, Giovanni Maria Farinella",
+      "title": "Synchronization is All You Need: Exocentric-to-Egocentric Transfer for Temporal Action Segmentation with Unlabeled Synchronized Video Pairs",
+      "journal": "CoRR",
+      "volume": "abs/2312.02638",
+      "year": 2023,
+      "url": "https://doi.org/10.48550/arXiv.2312.02638",
+      "eprinttype": "arXiv",
+      "eprint": "2312.02638",
+      "timestamp": "Wed, 13 Dec 2023 00:00:00 +0100"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "type": "inproceedings",
+      "key": "Quattrocchi_2024_ECCV",
+      "author": "Camillo Quattrocchi, Antonino Furnari, Daniele Di Mauro, Mario Valerio Giuffrida, Giovanni Maria Farinella",
+      "title": "Synchronization is All You Need: Exocentric-to-Egocentric Transfer for Temporal Action Segmentation with Unlabeled Synchronized Video Pairs",
+      "journal": "Proceedings of the European Conference on Computer Vision (ECCV)",
+      "month": "September",
+      "year": 2024,
+      "abbr": "ECCV"
+    },
+    {
+      "type": "inproceedings",
+      "key": "DBLP:conf/iciap/QuattrocchiMFF22",
+      "author": "Camillo Quattrocchi, Daniele Di Mauro, Antonino Furnari, Giovanni Maria Farinella",
+      "editor": "Stan Sclaroff, Cosimo Distante, Marco Leo, Giovanni Maria Farinella, Federico Tombari",
+      "title": "Panoptic Segmentation in Industrial Environments Using Synthetic and Real Data",
+      "journal": "Image Analysis and Processing - ICIAP 2022 - 21st International Conference, Lecce, Italy, May 23-27, 2022, Proceedings, Part II",
+      "series": "Lecture Notes in Computer Science",
+      "volume": "13232",
+      "pages": "275--286",
+      "publisher": "Springer",
+      "year": 2022,
+      "url": "https://doi.org/10.1007/978-3-031-06430-2_23",
+      "timestamp": "Thu, 18 Aug 2022 16:13:56 +0200"
+    },
+    {
+      "type": "inproceedings",
+      "key": "DBLP:conf/sigmap/PuglisiMFGF22",
+      "author": "Giuseppe Puglisi, Daniele Di Mauro, Antonino Furnari, Luigi Gulino, Giovanni Maria Farinella",
+      "editor": "Simone Santini, Andrew H. Sung",
+      "title": "Visual RSSI Fingerprinting for Radio-based Indoor Localization",
+      "journal": "Proceedings of the 19th International Conference on Signal Processing and Multimedia Applications, SIGMAP 2022, Lisbon, Portugal, July 14-16, 2022",
+      "pages": "70--77",
+      "publisher": "SCITEPRESS",
+      "year": 2022,
+      "url": "https://doi.org/10.5220/0011299900003289",
+      "timestamp": "Tue, 06 Jun 2023 14:58:02 +0200"
+    },
+    {
+      "type": "article",
+      "key": "DBLP:journals/corr/abs-2204-07069",
+      "author": "Camillo Quattrocchi, Daniele Di Mauro, Antonino Furnari, Giovanni Maria Farinella",
+      "title": "Panoptic Segmentation using Synthetic and Real Data",
+      "journal": "CoRR",
+      "volume": "abs/2204.07069",
+      "year": 2022,
+      "url": "https://doi.org/10.48550/arXiv.2204.07069",
+      "eprinttype": "arXiv",
+      "eprint": "2204.07069",
+      "timestamp": "Tue, 19 Apr 2022 01:00:00 +0200"
+    },
+    {
+      "type": "inproceedings",
+      "key": "DBLP:conf/visapp/MauroFSF21",
+      "author": "Daniele Di Mauro, Antonino Furnari, Giovanni Signorello, Giovanni Maria Farinella",
+      "editor": "Giovanni Maria Farinella, Petia Radeva, José Braz, Kadi Bouatouch",
+      "title": "Unsupervised Domain Adaptation for 6DOF Indoor Localization",
+      "journal": "Proceedings of the 16th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, VISIGRAPP 2021, Volume 5: VISAPP, Online Streaming, February 8-10, 2021",
+      "pages": "954--961",
+      "publisher": "SCITEPRESS",
+      "year": 2021,
+      "url": "https://doi.org/10.5220/0010333409540961",
+      "timestamp": "Tue, 06 Jun 2023 14:58:00 +0200"
+    },
+    {
+      "type": "article",
+      "key": "DBLP:journals/prl/MauroFPBF20",
+      "author": "Daniele Di Mauro, Antonino Furnari, Antonio Puglisi, Giuseppe Puglisi, Giovanni Maria Farinella",
+      "title": "A Multi-Sensor Outdoor Egocentric Dataset: Description of the Acquisition Platform, Dataset and Annotation Pipeline",
+      "journal": "Pattern Recognition Letters",
+      "volume": 131,
+      "pages": "69--76",
+      "year": 2020,
+      "url": "https://doi.org/10.1016/j.patrec.2019.12.009",
+      "timestamp": "Tue, 14 Jan 2020 09:57:10 +0100"
     }
-  ],
+  ]
+  ,
   "skills": [
     {
       "name": "Physics",
@@ -122,7 +205,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Italian",
       "fluency": "Native speaker",
       "icon": ""
     },
