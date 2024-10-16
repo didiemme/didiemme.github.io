@@ -26,7 +26,6 @@
     {
       "name": "NCE s.r.l.",
       "position": "Software Engineer",
-      "url": null,
       "startDate": "2009-08-01",
       "endDate": "2011-03-01",
       "summary": "Design and development of a Client/Server audio/video streaming systems. Eclipse RCP UI Design and development. Database analyst",
@@ -35,7 +34,6 @@
     {
       "name": "CrowdEngineering",
       "position": "Software Engineer",
-      "url": null,
       "startDate": "2011-11-01",
       "endDate": "2012-04-01",
       "summary": "Ajax web design and development",
@@ -44,7 +42,6 @@
     {
       "name": "Offerte tour operator",
       "position": "Software Engineer",
-      "url": null,
       "startDate": "2013-01-01",
       "endDate": "2014-06-01",
       "summary": "Design and development of a WebService aggregator in JAVA (JBoss). Design and development of SOAP and RESTful API to retrieve aggregated data. Design and development of WebApp to consume data from the API (AngularJS based). Exposure to MySql and Oracle DBs",
