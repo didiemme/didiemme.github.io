@@ -24,6 +24,21 @@
   },
   "work": [
     {
+      "name": "Next Vision s.r.l.",
+      "position": "Senior Researcher",
+      "startDate": "2022-11-01",
+      "endDate": "current",
+      "summary": "Design and development of Computer Vision algorithms for indoor navigation, 3D reconstruction",
+      "highlights": [
+        "Nerf",
+        "Gaussian Splatting",
+        "SLAM",
+        "PyTorch",
+        "Camera Relocalization",
+        "Ego Vision"
+      ]
+    },
+    {
       "name": "NCE s.r.l.",
       "position": "Software Engineer",
       "startDate": "2009-08-01",
