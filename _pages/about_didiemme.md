@@ -1,13 +1,6 @@
-I received my bachelor's degree and master's degree in computer science
-in 2005 and 2010 respectively from the University of Catania. I received
-my PhD in Mathematics and Computer Science in 2019 from the University
-of Catania. I am member of the IPLAB (University of Catania) research
-group since 2015. I'm author of papers in international book chapters,
-international journals and international conference proceedings. My
-research interests concern Computer Vision, Pattern Recognition, and
-Machine Learning, with focus on Scene Understanding and Domain
-Adaptation. From October 2019 until October 2020 I was a researcher
-at Department of Mathematics and Informatics, University of Catania.
+I received my Bachelor's and Master's degrees in Computer Science in 2005 and 2010, respectively, from the University of Catania. I earned my PhD in Mathematics and Computer Science in 2019, also from the University of Catania. I have been a member of the IPLAB research group (University of Catania) since 2015. I am the author of papers in international book chapters, journals, and conference proceedings.
 
-Currently, I am investigating 3D reconstruction, Neural Rendering and Autonomous Robots in indoor envirnoments.
+My research interests include Computer Vision, Pattern Recognition, and Machine Learning, with a focus on Scene Understanding and Domain Adaptation. From October 2019 to November 2022, I was a researcher in the Department of Mathematics and Informatics at the University of Catania.
+
+Currently, I am investigating 3D Reconstruction, Neural Rendering, and Autonomous Robots in indoor environments at Next Vision s.r.l.
 
