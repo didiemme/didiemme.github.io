@@ -109,16 +109,14 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "organization": "Aegee Catania",
+      "location": "Catania, Italy",
+      "position": "Board Member",
+      "startDate": "2006",
+      "endDate": "2011",
+      "summary": "IT Responsible and Advisory",
       "highlights": [
-        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
-        "Men of the year 2014 by Time magazine"
+        "Awarded Honorary Membership in December 2011"
       ]
     }
   ],
@@ -347,24 +345,23 @@
       "name": "Computer Vision",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Indoor Localization & SLAM",
+        "Egocentric Vision",
+        "Domain Adaptation",
+        "Image Classification",
+        "Object Detection",
+        "Neural Rendering",
+        "Semantic Segmentation"
       ]
     },
     {
       "name": "Software Development",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Design Patterns",
+        "Distributed Systems",
+        "API Design",
+        "Databases Design"
       ]
     }
   ],
