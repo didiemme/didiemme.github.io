@@ -9,6 +9,5 @@ Machine Learning, with focus on Scene Understanding and Domain
 Adaptation. From October 2019 until October 2020 I was a researcher
 at Department of Mathematics and Informatics, University of Catania.
 
-Currently, I am investigating 3D reconstruction and Autonomous Robots in indoor envirnoments.
+Currently, I am investigating 3D reconstruction, Neural Rendering and Autonomous Robots in indoor envirnoments.
 
-I am currently Senior Research Engineer at [Next Vision s.r.l.](https://www.nextvisionlab.it/).

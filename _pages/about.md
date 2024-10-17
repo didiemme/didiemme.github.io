@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: I am currently Senior Research Engineer at <a href='https://www.nextvisionlab.it/'> Next Vision s.r.l.]</a>. 
 
 profile:
   align: right
