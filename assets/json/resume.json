@@ -288,16 +288,45 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Mobile Development",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Unity",
+        "Flutter",
+        "iOS",
+        "Android"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "python",
+        "c++",
+        "c#",
+        "java",
+        "javascript",
+        "typescript",
+        "php",
+        "bash",
+        "dart"
+      ]
+    },
+    {
+      "name": "DevOps Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "docker",
+        "docker compose",
+        "git",
+        "apache",
+        "nginix",
+        "git",
+        "mysql",
+        "redis"
       ]
     }
   ],
