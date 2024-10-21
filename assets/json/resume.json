@@ -2,11 +2,11 @@
   "basics": {
     "name": "Daniele Di Mauro",
     "label": "Computer Vision and Machine learning Specialist",
-    "image": "",
+    "image": "https://didiemme.github.io/assets/img/daniele_color.jpg",
     "email": "ddimauro@nextvisionlab.it",
     "phone": "",
     "url": "https://didiemme.github.io/",
-    "summary": "An Italian-born Computer Vision and Machine learning Specialist",
+    "summary": "An Italian-born specialist in machine learning and computer vision with a strong focus on designing and developing algorithms for applications such as indoor navigation, underwater 3D reconstruction, egocentric vision, and domain adaptation. Complemented by experience in the design and implementation of distributed systems. Proficient in utilizing cutting-edge technologies.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "95100",
@@ -27,14 +27,10 @@
       "name": "Next Vision s.r.l.",
       "position": "Senior Researcher",
       "startDate": "2022-11-01",
-      "endDate": "current",
-      "summary": "Design and development of Computer Vision algorithms for indoor navigation, 3D reconstruction",
+      "summary": "Designed and developed computer vision algorithms for indoor navigation, underwater 3D reconstruction, egocentric vision, and domain adaptation.",
       "highlights": [
-        "Nerf",
-        "Gaussian Splatting",
-        "SLAM",
-        "PyTorch",
-        "Camera Relocalization",
+        "Nerf / 3D Gaussian Splatting",
+        "SLAM / Camera Relocalization",
         "Ego Vision"
       ]
     },
@@ -43,13 +39,10 @@
       "position": "Software Engineer",
       "startDate": "2009-08-01",
       "endDate": "2011-03-01",
-      "summary": "Design and development of a Client/Server audio/video streaming systems. Eclipse RCP UI Design and development. Database analyst",
+      "summary": "Designed and developed a client-server audio/video streaming system. Responsible for UI design and development using Eclipse RCP. Served as a database analyst.",
       "highlights": [
-        "Web Services",
-        "Distributed Systems",
-        "Subversion",
-        "Java",
-        "Wireshark"
+        "SOAP Web Services",
+        "Distributed Systems"
       ]
     },
     {
@@ -57,11 +50,11 @@
       "position": "Software Engineer",
       "startDate": "2011-11-01",
       "endDate": "2012-04-01",
-      "summary": "Ajax web design and development",
+      "summary": "Designed and developed Ajax-based web functionality for CRM software.",
       "highlights": [
-        "Web Services",
-        "Distributed Systems",
-        "JavaScript"
+        "Web Services/REST API",
+        "JavaScript Frontend development",
+        "PHP Backend development"
       ]
     },
     {
@@ -69,15 +62,12 @@
       "position": "Software Engineer",
       "startDate": "2013-01-01",
       "endDate": "2014-06-01",
-      "summary": "Design and development of a WebService aggregator in JAVA (JBoss). Design and development of SOAP and RESTful API to retrieve aggregated data. Design and development of WebApp to consume data from the API (AngularJS based). Exposure to MySql and Oracle DBs",
+      "summary": "Designed and developed a search engine for travel offers using SOAP web service aggregation in Java (JBoss). Created and implemented both SOAP and RESTful APIs to retrieve aggregated data. Developed a web application to consume the API data, based on AngularJS. Gained exposure to MySQL and Oracle databases.",
       "highlights": [
-        "Web Services",
-        "Distributed Systems",
-        "Java",
-        "JavaScript",
-        "AngularJS",
-        "Python",
-        "JSON"
+        "SOAP/REST Web Services",
+        "JavaScript/AngularJS Frontend development",
+        "Python/PHP Backend development",
+        "MySQL/Oracle"
       ]
     },
     {
@@ -157,7 +147,7 @@
     {
       "institution": "Aalborg University, Denmark",
       "location": "Aalborg, Denmark",
-      "url": "https://www.dmi.unict.it",
+      "url": "https://www.aau.dk",
       "area": "",
       "studyType": "Erasmus Scholarship",
       "startDate": "2004-02",
@@ -168,7 +158,7 @@
     {
       "institution": "Aalborg University, Denmark",
       "location": "Aalborg, Denmark",
-      "url": "https://www.dmi.unict.it",
+      "url": "https://www.auu.dk",
       "area": "",
       "studyType": "Visiting student",
       "startDate": "2007-03",
@@ -186,6 +176,7 @@
       "author": "Camillo Quattrocchi, Daniele Di Mauro, Antonino Furnari, Antonino Lopes, Marco Moltisanti, Giovanni Maria Farinella",
       "editor": "Petia Radeva, Giovanni Maria Farinella, Kadi Bouatouch",
       "title": "Put Your PPE on: A Tool for Synthetic Data Generation and Related Benchmark in Construction Site Scenarios",
+      "name": "Put Your PPE on: A Tool for Synthetic Data Generation and Related Benchmark in Construction Site Scenarios",
       "journal": "Proceedings of the 18th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, VISIGRAPP 2023, Volume 4: VISAPP, Lisbon, Portugal, February 19-21, 2023",
       "pages": "656--663",
       "publisher": "SCITEPRESS",
@@ -287,7 +278,6 @@
   "skills": [
     {
       "name": "Mobile Development",
-      "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Unity",
@@ -298,7 +288,6 @@
     },
     {
       "name": "Programming Languages",
-      "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "python",
@@ -314,7 +303,6 @@
     },
     {
       "name": "DevOps Tools",
-      "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "docker",
@@ -326,21 +314,7 @@
         "mysql",
         "redis"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Italian",
-      "fluency": "Native speaker",
-      "icon": ""
     },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
     {
       "name": "Computer Vision",
       "icon": "fa-solid fa-tag",
@@ -365,6 +339,24 @@
       ]
     }
   ],
+  "languages": [
+    {
+      "language": "Italian",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Elementary",
+      "icon": ""
+    }
+  ],
+  "interests": [],
   "references": [],
   "projects": []
 }
