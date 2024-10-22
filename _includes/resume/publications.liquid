@@ -4,7 +4,7 @@
     <li class="list-group-item">
       <div class="row">
         <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
-          {% if content.releaseDate %} {% assign date = content.releaseDate | split: '-' | join: '.' %} {% else %} {% assign date = '' %} {% endif %}
+          {% if content.releaseDate %} {% assign date = content.releaseDate | split: '-' | join: '.' %} {% else %} {% assign date = content.year %} {% endif %}
           <table class="table-cv">
             <tbody>
               <tr>
@@ -20,7 +20,11 @@
             <a href="{{ content.url }}">{{ content.title }}</a>
           </h6>
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ content.author }}</h6>
+          {% if content.journal != blank %}
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.journal }} {{ content.year }}</h6>
+          {% else %}
+          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.booktitle }} {{ content.year }}</h6>
+          {% endif %}
         </div>
       </div>
     </li>
