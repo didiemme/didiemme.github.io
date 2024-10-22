@@ -78,9 +78,8 @@
       "endDate": "2020-10-01",
       "summary": "Computer Vision Research.",
       "highlights": [
-        "Computer Vision",
-        "Python",
-        "PyTorch"
+        "SLAM / Camera Relocalization",
+        "Domain Adaptation for Semantic Segmentation"
       ]
     },
     {
@@ -91,9 +90,9 @@
       "endDate": "2022-11-01",
       "summary": "Computer Vision Research.",
       "highlights": [
-        "Computer Vision",
-        "Python",
-        "PyTorch"
+        "SLAM / Camera Relocalization",
+        "Domain Adaptation for Semantic Segmentation",
+        "Synthetic Data"
       ]
     }
   ],
@@ -148,7 +147,7 @@
       "institution": "Aalborg University, Denmark",
       "location": "Aalborg, Denmark",
       "url": "https://www.aau.dk",
-      "area": "",
+      "area": "Courses on Timed Automata and Data Mining",
       "studyType": "Erasmus Scholarship",
       "startDate": "2004-02",
       "endDate": "2004-07",
@@ -159,7 +158,7 @@
       "institution": "Aalborg University, Denmark",
       "location": "Aalborg, Denmark",
       "url": "https://www.auu.dk",
-      "area": "",
+      "area": "Worked on teleguide system for a robot ended in a pubblication",
       "studyType": "Visiting student",
       "startDate": "2007-03",
       "endDate": "2007-06",
@@ -277,45 +276,6 @@
   ],
   "skills": [
     {
-      "name": "Mobile Development",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Unity",
-        "Flutter",
-        "iOS",
-        "Android"
-      ]
-    },
-    {
-      "name": "Programming Languages",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "python",
-        "c++",
-        "c#",
-        "java",
-        "javascript",
-        "typescript",
-        "php",
-        "bash",
-        "dart"
-      ]
-    },
-    {
-      "name": "DevOps Tools",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "docker",
-        "docker compose",
-        "git",
-        "apache",
-        "nginix",
-        "git",
-        "mysql",
-        "redis"
-      ]
-    },
-    {
       "name": "Computer Vision",
       "icon": "fa-solid fa-tag",
       "keywords": [
@@ -329,13 +289,36 @@
       ]
     },
     {
+      "name": "Programming Languages",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "python",
+        "c/c++",
+        "c#",
+        "java",
+        "javascript/typescript",
+        "php",
+        "bash"
+      ]
+    },
+    {
+      "name": "DevOps Tools",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "docker/docker compose",
+        "git",
+        "apache/nginix",
+        "mysql",
+        "redis"
+      ]
+    },
+    {
       "name": "Software Development",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Design Patterns",
-        "Distributed Systems",
-        "API Design",
-        "Databases Design"
+        "Distributed Systems/API Design",
+        "Databases Design",
+        "Unity iOS/Android"
       ]
     }
   ],
