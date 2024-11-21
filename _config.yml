@@ -277,6 +277,10 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+  - scope:
+      path: ".well-known/atproto-did"
+    values:
+      layout: null
 
 sass:
   style: compressed
