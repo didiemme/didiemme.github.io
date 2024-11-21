@@ -226,9 +226,8 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include:
-  - _pages
-  - .well-known
+include: ["_pages"]
+
 exclude:
   - bin/
   - CONTRIBUTING.md
@@ -252,6 +251,7 @@ exclude:
 keep_files:
   - CNAME
   - .nojekyll
+  - .well-known
 
 # Plug-ins
 plugins:
