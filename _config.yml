@@ -251,7 +251,7 @@ exclude:
 keep_files:
   - CNAME
   - .nojekyll
-  - .well-known
+  - .well-known/atproto-did
 
 # Plug-ins
 plugins:
