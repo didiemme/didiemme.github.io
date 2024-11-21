@@ -226,7 +226,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", ".well-known"]
+include: ["_pages"]
 
 exclude:
   - bin/
@@ -251,7 +251,6 @@ exclude:
 keep_files:
   - CNAME
   - .nojekyll
-  - .well-known/atproto-did
 
 # Plug-ins
 plugins:
@@ -278,10 +277,6 @@ defaults:
       path: "assets"
     values:
       sitemap: false
-  - scope:
-      path: ".well-known/atproto-did"
-    values:
-      layout: null
 
 sass:
   style: compressed
